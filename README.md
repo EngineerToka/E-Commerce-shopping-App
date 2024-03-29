@@ -1,6 +1,6 @@
-
-# E-Commerce-shopping-App
-Description: Fresh Cart is a full-stack e-commerce web application built using React.js for the frontend and Node.js with Express.js for the backend. It provides functionalities for users to browse products, add them to cart, manage their wishlist, and checkout securely. Users can also register, log in, and update their profile information.
+Fresh Cart
+Project Description
+Fresh Cart is a full-stack e-commerce web application built using React.js for the frontend and Node.js with Express.js for the backend. It provides functionalities for users to browse products, add them to cart, manage their wishlist, and checkout securely. Users can also register, log in, and update their profile information.
 
 Key Features
 User Authentication: Users can register and log in securely. Passwords are validated based on strong criteria.
@@ -13,15 +13,23 @@ Technologies Used
 Frontend: React.js, React Router, React Query, Axios, SweetAlert2, Bootstrap, React Helmet, Formik, Yup, React Slick.
 Other Tools: Git, GitHub, VS Code, Postman.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/fresh-cart.git
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/EngineerToka/E-Commerce-shopping-App.git
 Install dependencies for the frontend and backend:
+
 Frontend: cd client && npm install
+Backend: cd server && npm install
 Set up environment variables:
-Create a .env file in the server directory and add necessary environment variables (e.g., MongoDB URI, JWT secret).
+
 Start the development server:
+
 Frontend: cd client && npm start
 Folder Structure
 client: Contains the frontend React.js application.
+server: Contains the backend Node.js application.
 Assets: Contains images and other static assets used in the project.
 Contexts: Contains React context providers for managing global state.
 Components: Contains reusable UI components used across the application.
