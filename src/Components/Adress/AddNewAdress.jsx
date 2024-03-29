@@ -46,13 +46,13 @@ export default function AddNewAdress() {
           });
       
   }
-  useEffect(()=>{
-    UpdateLogedUserAdress() 
-  },[])
   
  
   
-}
+}useEffect(()=>{
+    UpdateLogedUserAdress() 
+  },[])
+  
 
   return (<>
    <div className='w-75 m-auto my-5' >
