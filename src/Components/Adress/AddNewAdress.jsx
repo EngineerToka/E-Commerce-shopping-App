@@ -97,7 +97,7 @@ export default function AddNewAdress() {
       </div>
       <div className="modal-footer">
         <button type="button" className="btn btn-danger" data-bs-dismiss="modal">Close</button>
-        <button type="button" onClick={()=>{updateLogedUserAdress()}} className="btn btn-sucess bg-main text-white ">Update</button>
+        <button type="button" onClick={()=>{UpdateLogedUserAdress()}} className="btn btn-sucess bg-main text-white ">Update</button>
       </div>
     </div>
   </div>
