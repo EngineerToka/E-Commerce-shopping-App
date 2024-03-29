@@ -17,7 +17,7 @@ export default function AddNewAdress() {
   const[newAdress,setNewAdress]=useState([])
 
  
-  async function updateLogedUserAdress() {
+  async function UpdateLogedUserAdress() {
 
     let {data}= await axios.post('https://ecommerce.routemisr.com/api/v1/addresses',{
       name : name,
@@ -47,7 +47,7 @@ export default function AddNewAdress() {
       
   }
   useEffect(()=>{
-    updateLogedUserAdress() 
+    UpdateLogedUserAdress() 
   },[])
   
  

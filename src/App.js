@@ -1,4 +1,4 @@
-import { Navigate, RouterProvider, createBrowserRouter } from "react-router-dom";
+import { Navigate, RouterProvider, createBrowserRouter, createHashRouter } from "react-router-dom";
 import Layout from "./Components/Layout/Layout";
 import Home from "./Components/Home/Home"
 import Register from "./Components/Register/Register"
@@ -39,7 +39,7 @@ import AddNewAdress from "./Components/Adress/AddNewAdress";
 function App() {
   
   const queryClient= new QueryClient()
-  const routers = createBrowserRouter([
+  const routers = createHashRouter([
     {
       path:"",
       element:<Layout/>, 

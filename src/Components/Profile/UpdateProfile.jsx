@@ -19,12 +19,12 @@ export default function UpdateProfile() {
     }})
         console.log(data)
         if (data.message=='success') {
-       setName(data.user.name),
-          localStorage.setItem('name',name)
-       setName(data.user.email),
-          localStorage.setItem('email',email)
-       setName(data.user.phone),
-          localStorage.setItem('phone',phone)
+       setName(data.user.name);
+          localStorage.setItem('name',name);
+       setName(data.user.email);
+          localStorage.setItem('email',email);
+       setName(data.user.phone);
+          localStorage.setItem('phone',phone);
             toast.success('Your data have been update successfully', {
                 position: "top-right",
                 autoClose: 1500,
