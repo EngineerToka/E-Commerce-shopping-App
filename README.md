@@ -1,6 +1,6 @@
 Fresh Cart
 Project Description
-Fresh Cart is a full-stack e-commerce web application built using React.js for the frontend and Node.js with Express.js for the backend. It provides functionalities for users to browse products, add them to cart, manage their wishlist, and checkout securely. Users can also register, log in, and update their profile information.
+Fresh Cart is a full-stack e-commerce web application built using React.js for the frontend . It provides functionalities for users to browse products, add them to cart, manage their wishlist, and checkout securely. Users can also register, log in, and update their profile information.
 
 Key Features
 User Authentication: Users can register and log in securely. Passwords are validated based on strong criteria.
