@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# E-Commerce-shopping-App
+Fresh Cart is a full-stack e-commerce web application built using React.js for the frontend . It provides functionalities for users to browse products, add them to cart, manage their wishlist, and checkout securely. Users can also register, log in, and update their profile information.
+>>>>>>> 6089e870287700d27aa518c8320855cf34374b69
