@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Commerce-shopping-App/static/css/main.103753b5.css",
-    "main.js": "/E-Commerce-shopping-App/static/js/main.5bcac047.js",
+    "main.css": "/E-Commerce-shopping-App/static/css/main.b977e625.css",
+    "main.js": "/E-Commerce-shopping-App/static/js/main.bb893540.js",
     "static/media/cartGif.gif": "/E-Commerce-shopping-App/static/media/cartGif.349817200c4dd27c5d4a.349817200c4dd27c5d4a.gif",
     "static/media/fa-solid-900.ttf": "/E-Commerce-shopping-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/slider-image-1.jpeg": "/E-Commerce-shopping-App/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
@@ -15,6 +15,7 @@
     "static/media/Sign-up-1024x1024.png": "/E-Commerce-shopping-App/static/media/Sign-up-1024x1024.3f547ba1baf56f78a5a5.png",
     "static/media/Login-e1645110820608.png": "/E-Commerce-shopping-App/static/media/Login-e1645110820608.b65196cc95181a377589.png",
     "static/media/fa-regular-400.ttf": "/E-Commerce-shopping-App/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/Shopping_cart_icon.svg.png": "/E-Commerce-shopping-App/static/media/Shopping_cart_icon.svg.f8fe30e7c8486fa64804.png",
     "static/media/fa-regular-400.woff2": "/E-Commerce-shopping-App/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/istockphoto-1495088043-612x612.jpg": "/E-Commerce-shopping-App/static/media/istockphoto-1495088043-612x612.b151717290924de911b1.jpg",
     "static/media/fa-v4compatibility.ttf": "/E-Commerce-shopping-App/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
@@ -25,11 +26,11 @@
     "static/media/slick.ttf": "/E-Commerce-shopping-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/E-Commerce-shopping-App/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-Commerce-shopping-App/index.html",
-    "main.103753b5.css.map": "/E-Commerce-shopping-App/static/css/main.103753b5.css.map",
-    "main.5bcac047.js.map": "/E-Commerce-shopping-App/static/js/main.5bcac047.js.map"
+    "main.b977e625.css.map": "/E-Commerce-shopping-App/static/css/main.b977e625.css.map",
+    "main.bb893540.js.map": "/E-Commerce-shopping-App/static/js/main.bb893540.js.map"
   },
   "entrypoints": [
-    "static/css/main.103753b5.css",
-    "static/js/main.5bcac047.js"
+    "static/css/main.b977e625.css",
+    "static/js/main.bb893540.js"
   ]
 }
